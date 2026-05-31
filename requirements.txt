@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-cohere
+langchain-text-splitters
+cohere
+pypdf
+faiss-cpu
+tiktoken
+sentence-transformers
+transformers
+torch
